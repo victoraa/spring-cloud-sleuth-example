@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ExampleDriven/spring-cloud-sleuth-example.svg)](https://travis-ci.org/ExampleDriven/spring-cloud-sleuth-example)
+
 # Spring cloud sleuth example
 
 This example demonstrates the following features
